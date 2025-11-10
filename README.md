@@ -1,4 +1,4 @@
-AMANDA RODRIGUES CAMARGO
+AMANDA RODRIGUES CAMARGO----
 ADS 4S NOTURNO
 
 RA:24440170-2
@@ -17,7 +17,7 @@ coloque
   },
 
 
-
+-------------------------------------------------------------------------------------------------
 
 ATIVIDADE PRÁTICA ELIEL NASCIMENTO — CRUD *RESTful com Spring Boot
 Objetivo
@@ -80,8 +80,6 @@ Aluno pertence a um Curso (@manytoone)
 
 Implementar o Enum StatusAluno com os valores:
 ATIVO, INATIVO, TRANCADO.
--------------------------------------------------
-----
 
 Implementar endpoints RESTfull para cada entidade:
 
